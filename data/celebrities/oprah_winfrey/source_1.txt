@@ -1,0 +1,42 @@
+URL: https://www.biography.com/movies-tv/oprah-winfrey
+================================================================================
+
+Perfect! I successfully extracted comprehensive biographical information about Oprah Winfrey focusing on her life experiences, struggles, and achievements. 
+
+## Summary
+
+The information has been extracted and saved to `oprah_winfrey_biography_life_experiences.txt`. Here are the key life experiences covered:
+
+### Early Life & Background
+- Born in rural poverty in Mississippi (1954)
+- Raised by grandmother, wore clothes made from potato sacks
+- Moved to Milwaukee at age 6 to live with single mother working as a maid
+
+### Challenges & Adversity
+- Sexual abuse from ages 9-13 by male relatives and family friends
+- Attempted to run away at age 13
+- Became pregnant at 14; baby died in infancy
+- Poverty and isolation at affluent high school
+- Faced discrimination as a young Black woman in media
+
+### Turning Points
+- Sent to live with father Vernon in Nashville (strict but provided structure)
+- Father required nightly reading, fueling academic excellence
+- Won Miss Black Tennessee pageant (1972)
+- Moved to Chicago to host "AM Chicago" (1984) - transformed struggling show into #1 rated
+
+### Overcoming Difficulties
+- Transformed demotion from news anchor to talk show host into opportunity
+- Used platform to address abuse and trauma openly
+- Turned personal pain into purpose and empowerment for others
+
+### Notable Achievements from Hardship
+- First Black woman to own/produce her own talk show
+- First Black woman billionaire
+- Built global media empire
+- Founded Leadership Academy for Girls in South Africa
+- Major philanthropist in education and social causes
+
+**Important Note**: The Perplexity API successfully retrieved information that **includes content from biography.com** (which was blocking direct access), along with 6 other authoritative sources including Wikipedia, Achievement.org, and educational resources.
+
+The extracted narrative is now saved locally and ready for your biographical analysis workflow.
