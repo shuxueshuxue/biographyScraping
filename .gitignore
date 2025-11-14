@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Data and output files
+data/
+*.txt
+!MODULES_DOCUMENTATION.md
+
+# API keys and credentials
+models.json
+
+# Test files
+test_*.py
+scrape_*.py
