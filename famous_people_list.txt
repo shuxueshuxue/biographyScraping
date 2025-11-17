@@ -1,0 +1,167 @@
+# Famous People List for Biography Scraping
+# Organized by category - Focus on individuals with documented adversity and comebacks
+
+## BUSINESS & ENTREPRENEURSHIP (25)
+
+Steve Jobs - Fired from Apple, comeback story
+Elon Musk - Multiple near-bankruptcies, PayPal ousting
+Jeff Bezos - Amazon's early struggles, dot-com crash
+Jack Ma - Multiple rejections, failure, Alibaba rise
+Howard Schultz - Poverty childhood, Starbucks transformation
+Richard Branson - Dyslexia, business failures, Virgin success
+Warren Buffett - Early investment failures, long-term thinking
+Mark Cuban - Fired jobs, Broadcast.com sale
+Sara Blakely - Door-to-door sales, Spanx rejection
+Jan Koum - Poverty immigrant, WhatsApp billion-dollar exit
+Colonel Sanders - 65 years old, 1000+ rejections before KFC
+Arianna Huffington - Multiple book rejections, burnout
+Mark Zuckerberg - Facebook controversies, privacy battles
+Larry Ellison - Adoptee, Oracle's tumultuous rise
+Indra Nooyi - Immigrant struggles, PepsiCo CEO
+Reed Hastings - Netflix near-death, pivots
+Travis Kalanick - Uber rise and fall
+Andrew Carnegie - Poor immigrant, steel empire
+John D. Rockefeller - From bookkeeper to oil magnate
+Henry Ford - Early business failures, assembly line revolution
+Walt Disney - First studio bankruptcy, multiple failures
+Oprah Winfrey - Childhood abuse, media empire
+J.K. Rowling - Welfare single mom, Harry Potter rejections
+Sheryl Sandberg - Loss of husband, Lean In advocacy
+Sophia Amoruso - Shoplifting past, Nasty Gal rise and fall
+
+## ENTERTAINMENT & MEDIA (20)
+
+Steven Spielberg - Rejected from film school, dyslexia
+George Lucas - Star Wars rejections, studio battles
+Jim Carrey - Homelessness, years of struggle
+Sylvester Stallone - Sleeping in bus station, Rocky story
+Robert Downey Jr. - Drug addiction, prison, comeback
+Dwayne "The Rock" Johnson - Depression, football failure
+Jennifer Lopez - Bronx poverty, dancing struggles
+Lady Gaga - Dropped by label, bullying
+Eminem - White rapper stigma, poverty, addiction
+Jay-Z - Drug dealer past, music industry racism
+Beyonce - Destiny's Child lineup changes, pressure
+Tyler Perry - Homelessness, Madea creation struggle
+Ellen DeGeneres - Coming out backlash, career restart
+Simon Cowell - Multiple failed businesses before success
+Dick Van Dyke - Alcoholism, career longevity
+Charlize Theron - Father's death, South Africa poverty
+Halle Berry - Homelessness, domestic violence survivor
+Arnold Schwarzenegger - Austrian immigrant, bodybuilding mockery
+Shonda Rhimes - Rejection, "Year of Yes" transformation
+Lin-Manuel Miranda - Hamilton rejection stories
+
+## SPORTS (20)
+
+Michael Jordan - Cut from high school team, gambling criticism
+Serena Williams - Compton poverty, racism in tennis
+Muhammad Ali - Stripped of title, Vietnam War stance
+Simone Biles - Foster care, abuse survival, mental health
+LeBron James - Single mother poverty, "Decision" backlash
+Tom Brady - 199th draft pick, constant underestimation
+Cristiano Ronaldo - Poor island childhood, heart surgery
+Lionel Messi - Growth hormone disorder, Barcelona risk
+Kobe Bryant - Rape accusation, Achilles injury comeback
+Usain Bolt - Scoliosis, proving doubters wrong
+Venus Williams - Compton upbringing, Sjögren's syndrome
+Pelé - Poverty, racism in Brazilian football
+Lance Armstrong - Cancer survival (controversial doping)
+Michael Phelps - ADHD, depression, DUI arrests
+Bethany Hamilton - Shark attack, surfing comeback
+Jackie Robinson - Breaking color barrier, death threats
+Magic Johnson - HIV diagnosis, business success
+Tiger Woods - Sex scandal, back surgeries, comeback
+Lindsey Vonn - Multiple injuries, depression
+Wilma Rudolph - Polio, 20 surgeries, Olympic gold
+
+## SCIENCE & TECHNOLOGY (15)
+
+Albert Einstein - Learning disabilities, patent clerk
+Marie Curie - Sexism, poverty, radioactivity dangers
+Stephen Hawking - ALS diagnosis at 21, 50+ year survival
+Neil deGrasse Tyson - Racism in academia
+Temple Grandin - Autism, revolutionizing animal science
+Alan Turing - Persecution for homosexuality, suicide
+Nikola Tesla - Edison rivalry, died poor
+Thomas Edison - "Failed" 10,000 times before light bulb
+Grace Hopper - Ageism, sexism in computing
+Katherine Johnson - Segregation, Hidden Figures
+Bill Gates - Harvard dropout, antitrust battles
+Steve Wozniak - Plane crash, Apple departure
+Ada Lovelace - Sexism in 1800s, first programmer
+Carl Sagan - Academic establishment resistance
+Jane Goodall - No college degree, chimpanzee research skepticism
+
+## POLITICS & SOCIAL CHANGE (18)
+
+Abraham Lincoln - Depression, election losses, Civil War
+Nelson Mandela - 27 years in prison, apartheid fight
+Winston Churchill - Depression ("black dog"), WWII leadership
+Barack Obama - Biracial identity, Kenya father absence
+Malala Yousafzai - Taliban shooting, education advocacy
+Martin Luther King Jr. - Assassination threats, FBI surveillance
+Mahatma Gandhi - Racism in South Africa, non-violence
+Franklin D. Roosevelt - Polio paralysis, Great Depression/WWII
+Eleanor Roosevelt - Husband's infidelity, human rights work
+Ruth Bader Ginsburg - Gender discrimination, cancer battles
+John Lewis - Beaten on Selma bridge, civil rights
+Harriet Tubman - Slavery escape, Underground Railroad danger
+Cesar Chavez - Migrant worker, UFW struggles
+Rosa Parks - Arrest, civil rights icon
+Harvey Milk - First openly gay elected official, assassination
+AOC (Alexandria Ocasio-Cortez) - Bartender to Congress upset
+Greta Thunberg - Autism, climate activism criticism
+Desmond Tutu - Apartheid resistance, Truth Commission
+
+## ARTS & LITERATURE (17)
+
+Maya Angelou - Childhood trauma, mute for 5 years
+Vincent van Gogh - Mental illness, sold 1 painting, suicide
+Frida Kahlo - Bus accident paralysis, tumultuous marriage
+Ernest Hemingway - Depression, suicide
+Virginia Woolf - Mental illness, bipolar disorder, suicide
+Beethoven - Deafness, composing while deaf
+Georgia O'Keeffe - Sexism in art world, desert isolation
+Pablo Picasso - Blue Period poverty, WWII
+Harper Lee - One novel success, reclusive life
+Charles Dickens - Father's debtors prison, child labor
+Mark Twain - Bankruptcy, daughter deaths
+Emily Dickinson - Reclusive life, posthumous recognition
+Oscar Wilde - Imprisonment for homosexuality
+Sylvia Plath - Depression, suicide at 30
+Joan Didion - Grief (husband/daughter deaths), writing through pain
+David Bowie - Drug addiction, commercial failures, reinvention
+Prince - Childhood abuse, label battles, reclaiming name
+
+## ACTIVISTS & HUMANITARIANS (10)
+
+Mother Teresa - Poverty work, criticism of methods
+Dalai Lama - Exile from Tibet, refugee life
+Viktor Frankl - Holocaust survivor, logotherapy creation
+Elie Wiesel - Holocaust survivor, Night memoir
+Anne Frank - Hiding, concentration camp death
+Wangari Maathai - Political persecution, tree planting
+Erin Brockovich - Single mom, legal clerk to environmental hero
+Rigoberta Menchú - Guatemalan civil war, family deaths
+Aung San Suu Kyi - House arrest, Myanmar democracy (controversial)
+Ai Weiwei - Chinese government persecution, art activism
+
+---
+
+TOTAL: 125 famous people across diverse backgrounds
+
+SELECTION CRITERIA:
+- Well-documented life stories with multiple biographical sources
+- Significant adversity, failure, or challenges overcome
+- Diverse range of challenge types (poverty, discrimination, health, failure, loss)
+- Geographic and cultural diversity
+- Mix of historical and contemporary figures
+- Stories that can inspire people facing similar challenges today
+
+SCRAPING PRIORITY (suggested order):
+1. Start with top 20 most universally known (Jobs, Oprah, Einstein, etc.)
+2. Add diversity across categories (not all business leaders)
+3. Focus on individuals with rich online biographical content
+4. Consider recency (more online sources for contemporary figures)
+5. Balance inspirational with realistic struggle narratives

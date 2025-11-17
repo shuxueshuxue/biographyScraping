@@ -174,6 +174,7 @@ Work autonomously and handle all file I/O yourself."""
    Format each experience as:
    ```
    [KEYWORDS: keyword1, keyword2, keyword3]
+   [SOURCE: url_where_this_came_from]
    experience text here...
    describing the event, context, and impact.
    Can span multiple lines.
@@ -181,10 +182,13 @@ Work autonomously and handle all file I/O yourself."""
    ---
 
    [KEYWORDS: keyword4, keyword5]
+   [SOURCE: url_where_this_came_from]
    another experience text...
 
    ---
    ```
+
+   **IMPORTANT**: Always include the [SOURCE: url] line to track which URL each experience came from.
 
    **Keywords should be descriptive tags** like:
    - childhood-poverty, abuse, neglect

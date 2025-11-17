@@ -31,3 +31,4 @@ models.json
 # Temporary files
 *.tmp
 .cache/
+README_temp.md
