@@ -1,0 +1,9 @@
+{
+  "models": {
+    "sonar": {
+      "endpoint": "https://openrouter.ai/api/v1",
+      "api_key": "YOUR-OPENROUTER-API-KEY-HERE",
+      "model": "perplexity/sonar"
+    }
+  }
+}

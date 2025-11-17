@@ -7,16 +7,27 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
+.venv/
+venv/
+ENV/
 
 # Data and output files
 data/
-*.txt
-!MODULES_DOCUMENTATION.md
 
 # API keys and credentials
 models.json
 
-# Test files
-test_*.py
-scrape_*.py
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+.cache/
