@@ -29,19 +29,10 @@ that could have ever happened to me.'"
 
 ## Quick Start
 
-### Prerequisites
+### Web Interface
 
 ```bash
-# Python 3.12+
-python --version
-
-# Install uv (recommended) or pip
-curl -LsSf https://astral.sh/uv/install.sh | sh
-```
-
-### Installation
-
-```bash
+# Clone and install
 git clone https://github.com/shuxueshuxue/biographyScraping.git
 cd biographyScraping
 
@@ -50,8 +41,21 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install dependencies
-uv pip install -r requirements.txt
-# OR: pip install -r requirements.txt
+pip install -e .
+
+# Start web server
+python api_server.py
+# Open http://localhost:5000
+```
+
+### Command Line
+
+```bash
+# Python 3.12+
+python --version
+
+# Install uv (optional)
+curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
 ### Configuration
@@ -131,33 +135,30 @@ python stage3_query.py "I overcame childhood poverty" --top 5
 
 ```
 biographyScraping/
-├── README.md                    # This file
-├── pyproject.toml              # Project dependencies
-├── models.json                 # API configuration (gitignored)
+├── api_server.py               # Flask web server
+├── batch_process.py            # Batch processing script
+├── pyproject.toml              # Dependencies
 │
-├── Tool Modules (reusable)
-│   ├── citation_fetcher.py     # Fetch citations from Perplexity
-│   ├── deep_scraper.py         # Scrape URLs with Claude Code
-│   ├── embedding_tool.py       # Generate embeddings & match
-│   └── perplexity_tool.py      # Perplexity API wrapper
+├── Tool Modules
+│   ├── citation_fetcher.py
+│   ├── deep_scraper.py
+│   ├── embedding_tool.py
+│   └── perplexity_tool.py
 │
 ├── Workflow Scripts
-│   ├── stage1_scrape.py        # Stage 1: Scrape experiences
-│   ├── stage2_embed.py         # Stage 2: Generate embeddings
-│   └── stage3_query.py         # Stage 3: Query database
+│   ├── stage1_scrape.py
+│   ├── stage2_embed.py
+│   └── stage3_query.py
 │
-├── Data (gitignored)
-│   ├── celebrities/{person}/
-│   │   ├── experiences.txt     # Structured experiences
-│   │   └── scraping_summary.txt
-│   └── vector_db/{person}.json # Embeddings database
+├── frontend/                   # Web UI
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── images/
 │
-├── docs/
-│   ├── WORKFLOW.md             # Detailed workflow guide
-│   └── MODULES_DOCUMENTATION.md # Module API reference
-│
-└── tests/
-    └── test_*.py               # Test scripts
+└── data/ (gitignored)
+    ├── celebrities/{person}/
+    └── vector_db/{person}.json
 ```
 
 ## How It Works
@@ -211,9 +212,8 @@ Contributions welcome! Areas for improvement:
 
 - Add more famous people to the database
 - Improve keyword extraction
-- Add batch processing scripts
-- Create web interface
 - Optimize scraping prompts
+- Enhance web interface
 
 ## License
 
