@@ -1,6 +1,5 @@
 async function searchExperiences() {
     const input = document.getElementById('experienceInput').value.trim();
-    const topK = parseInt(document.getElementById('topK').value);
     const resultsDiv = document.getElementById('results');
     const loadingDiv = document.getElementById('loading');
     const searchBtn = document.getElementById('searchBtn');
@@ -23,7 +22,7 @@ async function searchExperiences() {
             },
             body: JSON.stringify({
                 query: input,
-                top_k: topK
+                top_k: 5
             })
         });
 
