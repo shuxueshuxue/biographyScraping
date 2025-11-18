@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life Experience Search Engine</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- GitHub Link -->
+    <a href="https://github.com/shuxueshuxue/biographyScraping" target="_blank" class="github-link">
+        <svg height="24" width="24" viewBox="0 0 16 16" fill="currentColor">
+            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+        </svg>
+    </a>
+
+    <!-- Hero Section -->
+    <div class="hero">
+        <div class="hero-content">
+            <h1>Life Experience Search Engine</h1>
+            <p class="hero-subtitle">Going through a tough time? You are not alone.</p>
+
+            <div class="avatar-array">
+                <div class="avatar">
+                    <img src="images/steve_jobs.jpg" alt="Steve Jobs">
+                </div>
+                <div class="avatar">
+                    <img src="images/oprah_winfrey.jpg" alt="Oprah Winfrey">
+                </div>
+                <div class="avatar">
+                    <img src="images/elon_musk.jpg" alt="Elon Musk">
+                </div>
+                <div class="avatar">
+                    <img src="images/albert_einstein.jpg" alt="Albert Einstein">
+                </div>
+                <div class="avatar">
+                    <img src="images/marie_curie.jpg" alt="Marie Curie">
+                </div>
+                <div class="avatar">
+                    <img src="images/nelson_mandela.jpg" alt="Nelson Mandela">
+                </div>
+                <div class="avatar">
+                    <img src="images/maya_angelou.jpg" alt="Maya Angelou">
+                </div>
+                <div class="avatar">
+                    <img src="images/stephen_hawking.jpg" alt="Stephen Hawking">
+                </div>
+            </div>
+
+            <p class="hero-description">Share your story and see how history's most resilient people overcame similar struggles.</p>
+
+            <div class="hero-stats">
+                <span class="stat-item">122 Famous People</span>
+                <span class="stat-divider">•</span>
+                <span class="stat-item">5,000+ Life Experiences</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <main>
+            <div class="search-section">
+                <h2 class="search-title">What are you going through?</h2>
+                <textarea
+                    id="experienceInput"
+                    placeholder="Describe your experience here... (e.g., 'I was fired from my own company and feel devastated')"
+                    rows="5"
+                ></textarea>
+
+                <div class="controls">
+                    <label for="topK">
+                        <span class="control-icon">🔍</span>
+                        Show top
+                        <input type="number" id="topK" value="5" min="1" max="20">
+                        matches
+                    </label>
+                    <button id="searchBtn" onclick="searchExperiences()">
+                        Find Similar Stories
+                    </button>
+                </div>
+
+            </div>
+
+            <div id="loading" class="loading" style="display: none;">
+                <div class="spinner"></div>
+                <p>Searching through 122 famous lives...</p>
+            </div>
+
+            <div id="results" class="results"></div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

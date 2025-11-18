@@ -1,0 +1,79 @@
+# Selected 50 Celebrities for Biography Scraping
+# Diverse backgrounds and well-documented adversity stories
+
+## Already Processed (10)
+1. Steve Jobs - Business (fired from Apple, comeback)
+2. Oprah Winfrey - Media (childhood abuse, poverty to empire)
+3. J.K. Rowling - Entertainment (welfare single mom, rejections)
+4. Michael Jordan - Sports (cut from team, gambling criticism)
+5. Elon Musk - Business/Tech (near-bankruptcies, PayPal ousting)
+6. Maya Angelou - Arts/Literature (childhood trauma, mute for 5 years)
+7. Nelson Mandela - Politics (27 years prison, apartheid)
+8. Serena Williams - Sports (Compton poverty, racism in tennis)
+9. Robert Downey Jr. - Entertainment (addiction, prison, comeback)
+10. Stephen Hawking - Science (ALS at 21, 50+ year survival)
+
+## Next 40 to Process
+
+# Business & Entrepreneurship (10)
+11. Jack Ma - Multiple rejections, failure, Alibaba rise
+12. Howard Schultz - Poverty childhood, Starbucks transformation
+13. Richard Branson - Dyslexia, business failures, Virgin success
+14. Sara Blakely - Door-to-door sales, Spanx rejection
+15. Jan Koum - Poverty immigrant, WhatsApp billion-dollar exit
+16. Colonel Sanders - 65 years old, 1000+ rejections before KFC
+17. Arianna Huffington - Multiple book rejections, burnout
+18. Mark Zuckerberg - Facebook controversies, privacy battles
+19. Jeff Bezos - Amazon's early struggles, dot-com crash
+20. Walt Disney - First studio bankruptcy, multiple failures
+
+# Entertainment & Media (10)
+21. Steven Spielberg - Rejected from film school, dyslexia
+22. Jim Carrey - Homelessness, years of struggle
+23. Sylvester Stallone - Sleeping in bus station, Rocky story
+24. Lady Gaga - Dropped by label, bullying
+25. Eminem - White rapper stigma, poverty, addiction
+26. Jay-Z - Drug dealer past, music industry racism
+27. Beyonce - Destiny's Child lineup changes, pressure
+28. Tyler Perry - Homelessness, Madea creation struggle
+29. Ellen DeGeneres - Coming out backlash, career restart
+30. Arnold Schwarzenegger - Austrian immigrant, bodybuilding mockery
+
+# Sports (8)
+31. Muhammad Ali - Stripped of title, Vietnam War stance
+32. Simone Biles - Foster care, abuse survival, mental health
+33. LeBron James - Single mother poverty, "Decision" backlash
+34. Tom Brady - 199th draft pick, constant underestimation
+35. Lionel Messi - Growth hormone disorder, Barcelona risk
+36. Kobe Bryant - Rape accusation, Achilles injury comeback
+37. Venus Williams - Compton upbringing, Sjögren's syndrome
+38. Michael Phelps - ADHD, depression, DUI arrests
+
+# Science & Technology (4)
+39. Albert Einstein - Learning disabilities, patent clerk
+40. Marie Curie - Sexism, poverty, radioactivity dangers
+41. Neil deGrasse Tyson - Racism in academia
+42. Temple Grandin - Autism, revolutionizing animal science
+
+# Politics & Social Change (5)
+43. Abraham Lincoln - Depression, election losses, Civil War
+44. Malala Yousafzai - Taliban shooting, education advocacy
+45. Martin Luther King Jr. - Assassination threats, FBI surveillance
+46. Barack Obama - Biracial identity, Kenya father absence
+47. Ruth Bader Ginsburg - Gender discrimination, cancer battles
+
+# Arts & Literature (3)
+48. Vincent van Gogh - Mental illness, sold 1 painting, suicide
+49. Frida Kahlo - Bus accident paralysis, tumultuous marriage
+50. Beethoven - Deafness, composing while deaf
+
+---
+
+TOTAL: 50 celebrities (10 already processed + 40 new)
+
+DIVERSITY BREAKDOWN:
+- Gender: ~20 women, ~30 men
+- Fields: Business (10), Entertainment (10), Sports (8), Science (4), Politics (5), Arts (3)
+- Challenge types: Career setbacks, poverty, discrimination, health, addiction, trauma, mental illness
+- Geographic: Global representation (USA, UK, South Africa, China, Austria, Argentina, etc.)
+- Era: Mix of historical and contemporary figures
